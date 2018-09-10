@@ -1,0 +1,21 @@
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Unity.DataContract.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Unity.CecilTools.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_obj\Debug\Will Bros.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Guille\Documents\Unity\Will Bros\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
